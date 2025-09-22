@@ -42,7 +42,7 @@ A web-based portal to manage **freelance field workers** for various services, b
 git clone https://github.com/suryanivasreddy/Freelance-Field-workers-marketplace
 ```
 ### Authors
-Singireddy Suryanivas Reddy <br>
+Singireddy Surya Nivas Reddy <br>
 Vuduthala Sachin Bharadvaj <br>
 Tavutu Vishnu Vardhan Reddy <br>
 Pulluri Aravind
