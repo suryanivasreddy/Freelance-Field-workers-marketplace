@@ -39,7 +39,7 @@ A web-based portal to manage **freelance field workers** for various services, b
 ## 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/sachin-bharadvaj/Freelance-Field-workers-marketplace
+git clone https://github.com/suryanivasreddy/Freelance-Field-workers-marketplace
 ```
 ### Authors
 Singireddy Suryanivas Reddy <br>
