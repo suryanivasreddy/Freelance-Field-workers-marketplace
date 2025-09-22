@@ -32,7 +32,7 @@ A web-based portal to manage **freelance field workers** for various services, b
 
 ## 📸 Project Preview
 
-![Project Preview](https://github.com/sachin-bharadvaj/Freelance-Field-workers-marketplace/blob/main/Screenshot_2025-05-08_08-41-35.png)
+![Project Preview](https://github.com/suryanivasreddy/Freelance-Field-workers-marketplace/blob/main/Screenshot.png)
 
 ---
 
@@ -42,7 +42,8 @@ A web-based portal to manage **freelance field workers** for various services, b
 git clone https://github.com/sachin-bharadvaj/Freelance-Field-workers-marketplace
 ```
 ### Authors
-Vuduthala Sachin Bharadvaj <br>
-Pulluri Aravind <br>
 Singireddy Suryanivas Reddy <br>
-Tavutu Vishnu Vardhan Reddy
+Vuduthala Sachin Bharadvaj <br>
+Tavutu Vishnu Vardhan Reddy <br>
+Pulluri Aravind
+
